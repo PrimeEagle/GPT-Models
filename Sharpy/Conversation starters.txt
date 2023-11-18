@@ -1,0 +1,5 @@
+Generate code for .NET version X.
+Create a C# algorithm for the latest .NET version.
+I need a C# app template for a specific .NET version.
+How to write C# unit tests in the newest version?
+Optimize this C# code for .NET version Y.
